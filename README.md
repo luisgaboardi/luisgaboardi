@@ -4,7 +4,7 @@
 
 - 🔭 I’m close to launch my first big project for translation of indigenous language Kokama to Portuguese: [Projeto Kokama](https://github.com/luisgaboardi/2020.2-Projeto-Kokama-Wiki)
 - 🌱 I’m currently learning everything I can 🤣
-- 👯 I’m looking for an internship to work at inovative ideas and interact with other creators and teams!
+- 👯 I’m looking for an internship to work at innovative ideas and interact with other creators and teams!
 - 🥅 2021 Goals: Always work on a side project besides university and learn more about DevOps
 - ⚡ Fun fact: Games are my hobby and I plan to investigate that area in the future
 
