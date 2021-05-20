@@ -10,7 +10,7 @@
 
 <br />
 
-<img align="left" alt="luisgaboardi's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=luisgaboardi&show_icons=true&hide_border=true" />
+[![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisgaboardi)](https://github.com/anuraghazra/github-readme-stats)
 
 <br /><br /><br /><br /><br /><br /><br /><br />
 
