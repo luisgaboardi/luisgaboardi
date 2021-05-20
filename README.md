@@ -10,7 +10,7 @@
 
 <br />
 
-<img align="left" alt="luisgaboardi's GitHub Stats" src="https://github-readme-stats.luisgaboardi.vercel.app/api?username=luisgaboardi&show_icons=true&hide_border=true" />
+<img align="left" alt="luisgaboardi's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=luisgaboardi&show_icons=true&hide_border=true" />
 
 <br /><br /><br /><br /><br /><br /><br /><br />
 
