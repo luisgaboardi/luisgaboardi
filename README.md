@@ -2,7 +2,7 @@
 
 ## I'm a Student, future Software Engineer and Developer!!
 
-- 🔭 My first big project is an app for translation of indigenous language Kokama to Portuguese: [Projeto Kokama](https://github.com/luisgaboardi/2020.2-Projeto-Kokama-Wiki)
+- 🔭 My first big project is an app for translation of indigenous language Kokama to Portuguese: [Projeto Kokama](https://github.com/fga-eps-mds/2020.2-Projeto-Kokama-Wiki)
 - 🌱 I’m currently learning everything I can 🤣
 - ⚡  I’m currently working on a Institutional Research about Autonomous Vehicles
 - 👯 I’m looking for an internship to work at innovative ideas and interact with other creators and teams!
