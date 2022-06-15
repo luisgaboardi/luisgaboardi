@@ -4,8 +4,8 @@
 
 - 🔭 I have two major projects: [Elza Cast](https://github.com/elza-cast) and [Projeto Kokama](https://github.com/fga-eps-mds/2020.2-Projeto-Kokama-Wiki)
 - 🌱 I’m currently learning everything I can 🤣
-- ⚡ I have done an Institutional Research about Autonomous Vehicles
-- 👯 I’m currently working on an internship in Supremo Tribunal Federal
+- ⚡ I have done an Institutional Research about Motion Planning of Autonomous Vehicles
+- 👯 I’m currently working as a Junior Developer
 - 🥅 2022 Goals: Have a wider knowledge about tecnologies to develop fullstack aplications
 
 <br />
