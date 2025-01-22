@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning everything I can 🤣;
 - ⚡ I have done an Institutional Research about Motion Planning of Autonomous Vehicles, for which I received the outstanding award at two scientific congresses;
 - 👯 I’m currently working as a Software Developer Intern;
-- 🥅 2024 Goals: Regularly do HackerRank exercises and publish articles at [Medium](https://luisgaboardi.medium.com).
 
 <br />
 
