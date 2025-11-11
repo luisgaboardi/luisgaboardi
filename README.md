@@ -64,13 +64,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
-
-###
-
-<h3 align="left">🔥 What I'm doing:</h3>
-
-###
-
-<img src="https://raw.githubusercontent.com/luisgaboardi/luisgaboardi/output/snake.svg" alt="Snake animation" />
-
-###
