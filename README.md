@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm <strong>Luis Guilherme</strong> from Brazil. Tech enthusiast, lazy specialist.<br><br>- 🔭 I’m working as Database Developer @ Caixa Econômica Federal<br>- 📚 I'm currently learning about AI and cybersecurity.<br>- ⚡ In my free time I develop fullstack applications that solves my problems, such as personal organization, like ToKalBan (ongoing)</p>
+<p align="left">I'm <strong>Luis Guilherme</strong> from Brazil. Tech enthusiast, lazy specialist.<br><br>- 🔭 I’m working as Database Developer @ Caixa Econômica Federal<br>- 📚 I'm currently learning about COBOL.<br>- ⚡ In my free time I develop fullstack applications that solves my problems, such as personal organization, like ToKalBan (ongoing)</p>
 
 ###
 
@@ -63,4 +63,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
 </div>
