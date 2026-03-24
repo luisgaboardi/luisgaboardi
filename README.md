@@ -19,11 +19,18 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻 About Me</h3>
 
 ###
 
-<p align="left">I'm <strong>Luis Guilherme</strong> from Brazil. Tech enthusiast, lazy specialist.<br><br>- 🔭 I’m working as Database Developer @ Caixa Econômica Federal<br>- 📚 But I'm currently deepening my knowledge of Spring.<br>- ⚡ In my free time I learn a little of everything I can, interested in Open-Source alternatives and Off-Grid solutions</p>
+<p align="left">
+I'm <strong>Luis Guilherme</strong> from Brazil. Tech enthusiast, lazy specialist.
+  
+- 🔭 I’m working as Database Developer @ Caixa Econômica Federal
+
+- 📚 But I'm currently deepening my knowledge of Spring.
+
+- ⚡ In my free time I learn a little of everything I can, interested in Open-Source alternatives and Off-Grid solutions</p>
 
 ###
 
