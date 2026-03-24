@@ -28,7 +28,7 @@ I'm <strong>Luis Guilherme</strong> from Brazil. Tech enthusiast, lazy specialis
   
 - 🔭 I’m working as Database Developer @ Caixa Econômica Federal
 
-- 📚 But I'm currently deepening my knowledge of Spring.
+- 📚 I’m currently expanding my stack with RabbitMQ and event-driven architecture.
 
 - ⚡ In my free time I learn a little of everything I can, interested in Open-Source alternatives and Off-Grid solutions</p>
 
