@@ -26,7 +26,7 @@
 <p align="left">
 I'm <strong>Luis Guilherme</strong> from Brazil. Tech enthusiast, lazy specialist.
   
-- 🔭 I’m working as Database Developer @ Caixa Econômica Federal
+- 🔭 I’m working as Full Stack Developer @ [Ceres Previdência](https://www.ceres.org.br/)
 
 - 📚 I’m currently expanding my stack with RabbitMQ and event-driven architecture.
 
@@ -68,4 +68,7 @@ I'm <strong>Luis Guilherme</strong> from Brazil. Tech enthusiast, lazy specialis
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" height="40" alt="rabbitmq logo" />
+          
 </div>
