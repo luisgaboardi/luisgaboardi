@@ -16,9 +16,12 @@
 
 Software Engineer specialized in **Java/Spring Boot**, microservices, and high-throughput backend architecture. 
 
-- 🔭 **Focus:** Building scalable event-driven systems and resilient backend infrastructure.
-- 🛠️ **Current Stack:** Java (Spring Boot, Quarkus), TypeScript, Python, RabbitMQ, PostgreSQL, Docker.
-- 🚀 **Featured Project:** [OmniVigil](https://github.com/luisgaboardi/omnivigil) — Industrial Digital Twin & Event-Driven Analytics platform.
+- 🔭 **Focus:** Building scalable distributed systems, event-driven architectures, and robust backend infrastructure.
+
+- 🛠️ **Current Stack:** Java (Spring Boot, Quarkus), TypeScript, Python, Message Brokers, PostgreSQL, Docker.
+
+- 🚀 **Featured Project:** [Nexulor](https://github.com/luisgaboardi/nexulor) — Scalable backend system focused on high availability and clean architecture.
+
 - 💬 **Languages:** Fluent English (C2 Proficient), Native Portuguese.
 
 ---
